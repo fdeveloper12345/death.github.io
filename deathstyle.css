@@ -1,0 +1,174 @@
+
+
+
+
+body{
+    background-image: url(V4yOuzu.jpg);
+}
+
+
+
+.dark{
+    position: relative;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    top: 120px;
+    border: 2px solid rgb(77, 77, 77);
+    height: 530px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-image: url(https://media.istockphoto.com/id/1201544779/photo/blank-front-real-black-chalkboard-background-texture-in-college-concept-for-back-to-school.jpg?b=1&s=612x612&w=0&k=20&c=ynDixuMeJVyJyKB8lAbKFsPCPSIvHcGpHWBxy3sKviE=);
+    
+}
+
+.dark h1{
+    position: absolute;
+    color: aliceblue;
+    font-size: 12px;
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    top: 475px;
+    left: ;
+   
+}
+
+.dark img{
+    position: absolute;
+    width: 150px;
+    height: 130px;
+    top: 0;
+    margin-top: 10px;
+    border-radius: 50%;
+    box-shadow: 7px 10px 12px -1px rgba(0,0,0,0.69);
+-webkit-box-shadow: 7px 10px 12px -1px rgba(0,0,0,0.69);
+-moz-box-shadow: 7px 10px 12px -1px rgba(0,0,0,0.69);
+
+}
+
+.dark #shenibedi{
+    position: absolute;
+   bottom: 0;
+   margin-bottom:60px;
+   font-family: "DejaVu Sans Condensed Bold", sans-serif;
+   margin-left: 10px;
+   width: 155px;
+   height: 30px;
+   outline: none;
+   border: 2px solid black;
+   font-size: 15px;
+}
+
+label{
+position: absolute;
+text-align: center;
+color: rgb(250, 250, 208);
+font-family: "DejaVu Sans Condensed Bold", sans-serif;
+top: 190px;
+font-size: 13px;
+left: 60px;
+}
+
+
+.dark input[type="text"]{
+    position: absolute;
+    background: none;
+    top: 340px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(119, 112, 112);
+    text-align: center;
+  left: 70px;
+  cursor: none;
+  
+}
+
+
+.dark h2{
+    position: absolute;
+    font-family: "DejaVu Sans Condensed Bold", sans-serif;
+    font-size: 18px;
+    top: 130px;
+    color: rgb(136, 128, 85);
+    animation: luka;
+    animation-duration: 20s;
+}
+
+
+@keyframes luka{
+ 0%  {color: rgb(117, 93, 93);}
+ 10%  {color: rgb(168, 166, 166);}
+ 20%  {color: rgb(65, 50, 50);}
+ 30%  {color: rgb(126, 126, 126);}
+ 40%  {color: rgb(117, 93, 93);}
+ 50%  {color: rgb(209, 181, 181);}
+ 60%  {color: rgb(116, 72, 72);}
+ 70%  {color: rgb(78, 34, 34);}
+ 80%  {color: rgb(136, 120, 120);}
+ 90%  {color: rgb(49, 37, 37);}
+100%  {color: rgb(117, 117, 117);}
+}
+
+
+
+.dark #date{
+    position: absolute;
+    margin-top: -50px;
+    width: 150px;
+    left: 82px;
+    
+}
+
+
+.name{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 280px;
+    text-align: center;
+    margin: 0 auto;
+    left: 95px;
+}
+
+
+#tagname{
+    position: absolute;
+    top: 315px;
+    background-color: aliceblue;
+    width: 152px;
+    margin-left: 10px;
+}
+
+
+
+.sername{
+    position: absolute;
+    margin-top: 100px;
+    text-align: center;
+    left: 95px;
+    top: 260px;
+    color: rgb(255, 255, 255);
+}
+
+#tagsername{
+    position: absolute;
+    background-color: aliceblue;
+    margin-top: 50px;
+    width: 150px;
+    left: 80px;
+}
+
+
+
+hr{
+    position: absolute;
+ width: 50%;
+ bottom: 0;
+ margin-bottom: 30px;
+ 
+ border: none;
+ border-bottom: 1px solid wheat;
+ margin-left: 10px;
+}
